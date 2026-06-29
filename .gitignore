@@ -11,4 +11,8 @@ wheels/
 .env
 
 # Jupyter
-.ipynb_checkpoints/        
+.ipynb_checkpoints/     
+
+
+# Models
+models/
