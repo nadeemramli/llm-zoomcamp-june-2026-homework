@@ -9,10 +9,11 @@ wheels/
 # Virtual environments
 .venv
 .env
+.envrc
+.tmp
 
 # Jupyter
-.ipynb_checkpoints/     
+.ipynb_checkpoints/
 
-
-# Models
+# Models (downloaded ONNX artifacts — matches any "models" dir at any depth)
 models/
